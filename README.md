@@ -1,5 +1,4 @@
 # bio1435
-Scripts for Brown University class bio1435
 
 The code from the Jupyter Notebook is uploaded on the class cluster account in directory 'msprime_scripts'
 
