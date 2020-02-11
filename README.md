@@ -1,4 +1,4 @@
-# bio1435
+# bio1435 - msprime examples
 
 The code from the Jupyter Notebook is uploaded on the class cluster account in directory 'msprime_scripts'
 
