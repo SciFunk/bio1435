@@ -3,8 +3,6 @@
 These are a few little scripts I wrote to get students started when I was TAing for bioinformatics.
 
 
-The code from the Jupyter Notebook is uploaded on the class cluster account in directory 'msprime_scripts'
-
 
 
 run the commands below before running an msprime script:
